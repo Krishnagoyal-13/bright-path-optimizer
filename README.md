@@ -1,4 +1,4 @@
-# 🚀 Bright-Path Debt Optimizer (SDE Intern Project)
+# 🚀 Debt Optimizer
 
 A high-performance Debt Paydown Simulation API built with **Python** and **Django**. This project solves the complex financial problem of debt optimization using data-driven algorithms.
 
